@@ -1,5 +1,4 @@
-# Baitap-NMLT
-# Diem danh
+# Bai tap diem danh
 # 📌 Bài toán: Điểm danh
 # 🧠 Mô tả
 
